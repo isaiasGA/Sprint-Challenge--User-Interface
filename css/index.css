@@ -305,3 +305,7 @@ section .about p {
 .box{
     margin: 20px;
 }
+
+.together {
+    margin-bottom:  20px;
+}
