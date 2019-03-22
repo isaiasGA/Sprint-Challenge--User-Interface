@@ -88,9 +88,21 @@ header nav {
    }
 
 header nav a {
+    margin-left: 10px;
     text-decoration: none;
     color: black;
 }
+
+.lambda {
+    float: left;
+    margin-right: 62px;
+    margin-top: 17px;
+}
+
+.lights {
+    margin-top: 34px;
+}
+
 
 .top-content {
     display: flex;
@@ -104,6 +116,10 @@ header nav a {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;  
+}
+
+.top-content {
+    margin-top: 20px;
 }
 
 .middle-content {
