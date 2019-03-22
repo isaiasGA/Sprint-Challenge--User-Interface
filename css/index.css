@@ -297,3 +297,11 @@ section .about p {
     text-decoration-line:underline;
     text-decoration-style: dashed;
 }
+
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    margin: 20px;
+}
