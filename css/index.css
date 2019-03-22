@@ -281,3 +281,19 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+                /*ABOUT PAGE*/
+    
+.city {
+    margin-top: 38px;
+}
+
+.about {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section .about p {
+    text-decoration-line:underline;
+    text-decoration-style: dashed;
+}
